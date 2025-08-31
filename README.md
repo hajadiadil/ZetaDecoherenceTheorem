@@ -1,17 +1,23 @@
 # Spectral Zeta Coherence: Prime Waves and Hadronic Analogies
 
-This repository contains supplementary code and visualizations for the ongoing research project "La Zêta de Cohérence".
+This repository contains supplementary code and visualizations for the research project **"La Zêta de Cohérence"**, exploring deep analogies between prime number theory and hadronic physics through spectral zeta functions.
 
-## Overview
-We explore wave-based constructions derived from prime numbers and their resonance with Riemann zeta zeros. The work aims to build bridges between number theory and quantum hadronic physics.
+## 🌟 Key Features
+- Wave-based construction of prime-number oscillations
+- Resonance analysis with Riemann zeta zeros
+- Visualizations of spectral coherence patterns
 
-## Contents
-- `technical_paper/`: LaTeX source for the technical overview paper.
-- `figures/`: Generic visualizations (prime waves, explicit formula comparisons).
-- `code/`: Python scripts generating the figures (with example parameters).
+## 📁 Repository Structure
+- `technical_paper/`: LaTeX source and figures for the technical overview
+- `code/`: Python scripts to generate prime waves and spectral analyses
+- `data/`: Example parameters and generated data samples
 
-## Note
-This is an active research project. The full numerical results and optimized parameters will be released upon publication.
+## 🚀 Getting Started
+1. Install dependencies: `pip install -r code/requirements.txt`
+2. Run example: `python code/prime_waves.py`
 
-## License
-CC BY 4.0
+## 📜 License
+This work is licensed under CC BY 4.0. See LICENSE file for details.
+
+## 🔗 Related Publication
+*Preprint coming soon on arXiv*
