@@ -12,10 +12,6 @@ This repository contains supplementary code and visualizations for the research 
 - `code/`: Python scripts to generate prime waves and spectral analyses
 - `data/`: Example parameters and generated data samples
 
-## 🚀 Getting Started
-1. Install dependencies: `pip install -r code/requirements.txt`
-2. Run example: `python code/prime_waves.py`
-
 ## 📜 License
 This work is licensed under CC BY 4.0. See LICENSE file for details.
 
