@@ -7,12 +7,7 @@ Fundamental theorem connecting decimal periods, multiplicative orders and quantu
 
 ## 🔥 Core Discovery
 
-For any prime p ≠ 2,5:
-1/p = a/(10ⁿ - 1)
-
-Where:
-- n = ord_p(10) (multiplicative order)
-- a = (10ⁿ - 1)/p (decimal period)
+RH-like zero alignment
 
 ## 🌌 Quantum-Classical Interpretation
 
