@@ -11,9 +11,9 @@ RH-like zero alignment
 
 ## 🌌 Quantum-Classical Interpretation
 
-- **n = ord_p(10)**: Quantum coherence dimension (hidden order)
+- **n = **: Quantum coherence dimension (hidden order)
 - **a**: Classical measurement outcome (observable period)  
-- **Transition**: `10ⁿ ≡ 1 mod p` represents decoherence process
+- **Transition**: decoherence process
 
 ## 📊 Key Examples
 
