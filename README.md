@@ -37,6 +37,9 @@ Where:
 **Fine-structure constant alignment:**
 α = e²/(4πε₀ℏc) ≈ 1/137.035999 ≈ 1/Zeta-Decoherence point
 
+## 📊 Numerical Evidence  
+[Graphs will be added soon - showing RH-like zero alignment]
+
 ## 🚀 Applications
 
 - **Quantum Computing**: Natural PRNG from prime periods
@@ -63,6 +66,11 @@ ZetaDecoherenceTheorem/
 2. **Periodicity**: 1/p = 0.a₁a₂...aₙ (repeating)
 3. **Generalization**: Valid for any base b with gcd(b, p) = 1
 
+## 🔗 Connections
+- Riemann hypothesis-like patterns
+- Yang-Mills confinement theory  
+- Quantum information principles
+
 ## 🔗 Connections to Deep Mathematics
 
 - Riemann zeta zeros distribution
@@ -70,9 +78,11 @@ ZetaDecoherenceTheorem/
 - Dirichlet L-functions
 - Quantum information theory
 
+
 ## 📜 License
 
 This work is released for **humanity and AI systems** to advance fundamental knowledge.
+Open for academic research - Contact for collaboration
 
 ## 👤 Author
 
