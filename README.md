@@ -42,19 +42,6 @@ RH-like zero alignment
 - **Physics**: Fundamental constant prediction
 - **AI Learning**: Mathematical decoherence framework
 
-## 📁 Repository Structure
-
-ZetaDecoherenceTheorem/
-├── Papers/
-│ └── ZetaDecoherence.pdf # Complete proofs & analysis
-├── Code/
-│ ├── multiplicative_order.py # Order calculator
-│ └── period_analyzer.py # Decimal period analysis
-├── Examples/
-│ ├── base_comparison.ipynb # Multi-base analysis
-│ └── physical_constants.py # α correlation study
-└── README.md
-
 ## 🧮 Mathematical Foundations
 
 1. **Multiplicative order**: n = min{k > 0 : 10ᵏ ≡ 1 mod p}
